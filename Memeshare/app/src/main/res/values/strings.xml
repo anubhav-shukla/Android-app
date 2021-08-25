@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memeshare</string>
+    <string name="share">Share</string>
+    <string name="Next" />
+    <string name="next">Next</string>
+    <string name="just_meme">just meme</string>
+    <string name="created_by_anubhav_shukla">Created by Anubhav shukla</string>
+</resources>
